@@ -9,10 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9bde543a119bca141a0db99ff068af11, type: 3}
-  m_Name: PlayerOne
+  m_Script: {fileID: 11500000, guid: 89a6ab99cf5279847adeea05692f63c4, type: 3}
+  m_Name: Paper
   m_EditorClassIdentifier: 
-  _maxHealth: 1000
-  _speed: 240
-  _damage: 440
-  _defence: 1560
+  _weakness: {fileID: 11400000, guid: 63d75c5dadad40a409f041f57fef4433, type: 2}
