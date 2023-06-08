@@ -17,8 +17,13 @@ The book is available at this link.
 
 ## Architecture
 * Configuration
+* Pattern: Extendable Enums
 
 ## Gif
-- Configuration
+#### Configuration
 ![Unity_2Owf0R99Zw](https://github.com/CreatNatoy/ScriptableObject_Architecture/assets/76531899/0b4293b7-389d-4754-be1c-7203cf02099d)
 In this example, the Configuration demonstrates that data can be stored in a ScriptableObject, and it can be edited in Play Mode with all changes saved. The Configuration itself is present in the scene as a separate object. Additionally, you can create child objects to edit different sets of data. Isn't it convenient that you can edit all the data in one place instead of searching for them throughout the project or scene?
+
+#### Pattern: Extendable Enums
+![Unity_u4tviaZwK8](https://github.com/CreatNatoy/ScriptableObject_Architecture/assets/76531899/21c3a212-1496-465e-808d-ee172b98ba79)
+In this example, Pattern: Extendable Enums, I demonstrated how ScriptableObjects can be conveniently used as Enums.
