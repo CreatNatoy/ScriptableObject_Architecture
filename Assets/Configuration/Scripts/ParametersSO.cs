@@ -1,8 +1,10 @@
+using Sirenix.OdinInspector;
 using UnityEngine;
 
 namespace Configuration.Scripts
 {
     [CreateAssetMenu(fileName = "ParametersSo", menuName = "ScriptableObject/ParametersSo")]
+    [InlineEditor]
     public class ParametersSo : ScriptableObject
     {
         [SerializeField] private int _maxHealth;
