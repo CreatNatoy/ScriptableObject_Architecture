@@ -11,3 +11,14 @@ ScriptableObject is not just a convenient data storage container optimized as a 
 The book is available at this link. 
 
 [Create modular game architecture in Unity with ScriptableObjects.](https://resources.unity.com/games/create-modular-game-architecture-with-scriptable-objects-ebook?ungated=true)
+
+## Assets
+* [Odin.](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041) It was used to avoid writing Editor scripts.
+
+## Architecture
+* Configuration
+
+## Gif
+- Configuration
+![Unity_2Owf0R99Zw](https://github.com/CreatNatoy/ScriptableObject_Architecture/assets/76531899/0b4293b7-389d-4754-be1c-7203cf02099d)
+In this example, the Configuration demonstrates that data can be stored in a ScriptableObject, and it can be edited in Play Mode with all changes saved. The Configuration itself is present in the scene as a separate object. Additionally, you can create child objects to edit different sets of data. Isn't it convenient that you can edit all the data in one place instead of searching for them throughout the project or scene?
