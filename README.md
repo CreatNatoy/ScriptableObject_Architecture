@@ -18,6 +18,7 @@ The book is available at this link.
 ## Architecture
 * Configuration
 * Pattern: Extendable Enums
+* Pattern: Delegate objects
 
 ## Gif
 #### Configuration
@@ -27,3 +28,7 @@ In this example, the Configuration demonstrates that data can be stored in a Scr
 #### Pattern: Extendable Enums
 ![Unity_u4tviaZwK8](https://github.com/CreatNatoy/ScriptableObject_Architecture/assets/76531899/21c3a212-1496-465e-808d-ee172b98ba79)
 In this example, Pattern: Extendable Enums, I demonstrated how ScriptableObjects can be conveniently used as Enums.
+
+#### Pattern: Delegate objects
+![Unity_8Azcp2OJUW](https://github.com/CreatNatoy/ScriptableObject_Architecture/assets/76531899/ee50628e-0343-4741-afc9-21269cf34afb)
+In this example, Pattern: Delegate objects, I demonstrated how ScriptableObjects can execute code in different parameters. At the same time, you can always create more options. The book used sound reproduction, here I showed an example with text.
