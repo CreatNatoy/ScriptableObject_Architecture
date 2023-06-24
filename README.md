@@ -20,6 +20,7 @@ The book is available at this link.
 * Pattern: Extendable Enums
 * Pattern: Delegate objects
 * Pattern: Observer
+* Pattern: Runtime Set
 
 ## Gif
 #### Configuration
@@ -37,3 +38,8 @@ In this example, Pattern: Delegate objects, I demonstrated how ScriptableObjects
 ### Pattern: Observer
 ![Unity_JQ3UO9v8Fb](https://github.com/CreatNatoy/ScriptableObject_Architecture/assets/76531899/d7dd40c0-1438-4e89-beb5-5b91ee2b446e)
 In this example, How easy it is to create an observer. In this example, we have 2 observers for Start and Stop, but you can also create any number. At the same time, you do not need to write additional code.
+
+### Pattern: Runtime Set
+![Unity_uLqwz5KBMp](https://github.com/CreatNatoy/ScriptableObject_Architecture/assets/76531899/ee077da7-67fa-4a9a-a7bc-b7ccff23ec3b)
+In this example, How easy it is to create an container. And get a link to objects, without searching, static, singletons, and using scriptableObject. 
+
