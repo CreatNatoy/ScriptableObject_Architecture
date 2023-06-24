@@ -21,6 +21,7 @@ The book is available at this link.
 * Pattern: Delegate objects
 * Pattern: Observer
 * Pattern: Runtime Set
+* Service Locator
 
 ## Gif
 #### Configuration
@@ -42,4 +43,8 @@ In this example, How easy it is to create an observer. In this example, we have 
 ### Pattern: Runtime Set
 ![Unity_uLqwz5KBMp](https://github.com/CreatNatoy/ScriptableObject_Architecture/assets/76531899/ee077da7-67fa-4a9a-a7bc-b7ccff23ec3b)
 In this example, How easy it is to create an container. And get a link to objects, without searching, static, singletons, and using scriptableObject. 
+
+### Service Locator
+![Unity_RH1F0ePuNy](https://github.com/CreatNatoy/ScriptableObject_Architecture/assets/76531899/5101d3ae-2b06-4735-a739-62765c30a9e6)
+
 
